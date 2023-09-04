@@ -5163,3 +5163,26 @@ e@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_ic
 1693822904183	Marionette	INFO	Stopped listening on port 63309
 Dynamically enable window occlusion 1
 JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1693840218581	geckodriver	INFO	Listening on 127.0.0.1:64263
+1693840221602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64264" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofile0r6qrm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693840222424	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693840222542	Marionette	INFO	Listening on port 64273
+WebDriver BiDi listening on ws://127.0.0.1:64264
+Read port: 64273
+1693840222887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64264/devtools/browser/38ccf7be-3153-4db4-8036-ad6b1898f257
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 5909 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 13844, MediaDecoderStateMachine #1] WARNING: 23f78e5dcd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 5528 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 13844, MediaDecoderStateMachine #1] WARNING: 23f7b8c1ab0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 5528 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 1359: Script terminated by timeout at:
+al@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:1359:12
+r@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:1412:128
+
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1693840242875	Marionette	INFO	Stopped listening on port 64273
+Dynamically enable window occlusion 1
