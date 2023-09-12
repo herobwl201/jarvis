@@ -5386,3 +5386,713 @@ cI/<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil
 JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
 1693881838228	Marionette	INFO	Stopped listening on port 52893
 Dynamically enable window occlusion 1
+1693929327631	geckodriver	INFO	Listening on 127.0.0.1:60538
+1693929330665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60539" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofileVw2pYk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693929331510	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693929331621	Marionette	INFO	Listening on port 60547
+WebDriver BiDi listening on ws://127.0.0.1:60539
+Read port: 60547
+1693929331965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60539/devtools/browser/c9c7711f-075d-49aa-92a6-dc5f370d1786
+[Child 992, MediaDecoderStateMachine #1] WARNING: 2506b9ba780 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 3423 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 2542: Script terminated by timeout at:
+Cp.prototype.transition@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:2542:33
+cI/<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:8498:114
+
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1693929358485	Marionette	INFO	Stopped listening on port 60547
+Dynamically enable window occlusion 1
+1693937838937	geckodriver	INFO	Listening on 127.0.0.1:62244
+1693937841918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62245" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofileH2fWsA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693937842382	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693937842476	Marionette	INFO	Listening on port 62255
+WebDriver BiDi listening on ws://127.0.0.1:62245
+Read port: 62255
+1693937842740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62245/devtools/browser/b560640a-683f-4699-9400-353c10ce45a5
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 7719 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5264, MediaDecoderStateMachine #1] WARNING: 298b5565790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 2294 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5264, MediaDecoderStateMachine #1] WARNING: 298b629e130 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 2294 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/xjs/_/js/k=xjs.snr.vi.mLgSZqmpWSs.O/am=ChCAgAAAAAAAACAAACogHALYAAbgn_sAAAABABQAAAAAgKoIAAYAgvefJAYAAAFCAEwAcbAHAFBCFbADAAAAxn4AAAAAAIAFwHgBAI0AOBACFIAAAAAAyAOA8wCCgwkLAAAAAAAAAAAAIOASBIMD0mMBARAAAAAAAAAAAAAglUxeDiAAAAY/d=1/ed=1/dg=2/rs=ACT90oGGMqg5-G0YVowL0Aq5V1qVnQwCiA/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe,MdUzUe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;vfVwPd:OXTqFb;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,vjQg0b;SMDL4c:fTfGO,vjQg0b;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;VN6jIc:ddQyuf;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;zxnPse:GkRiKb;xqZiqf:wmnU7d;lkq0A:Z0MWEf;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsanr,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl, line 406: Script terminated by timeout at:
+b@https://www.google.com/xjs/_/js/k=xjs.snr.vi.mLgSZqmpWSs.O/am=ChCAgAAAAAAAACAAACogHALYAAbgn_sAAAABABQAAAAAgKoIAAYAgvefJAYAAAFCAEwAcbAHAFBCFbADAAAAxn4AAAAAAIAFwHgBAI0AOBACFIAAAAAAyAOA8wCCgwkLAAAAAAAAAAAAIOASBIMD0mMBARAAAAAAAAAAAAAglUxeDiAAAAY/d=1/ed=1/dg=2/rs=ACT90oGGMqg5-G0YVowL0Aq5V1qVnQwCiA/ee=cEt90b:ws9Tlc;qddgKe:x4FYXe,d7YSfd;yxTchf:KUM7Z;dtl0hd:lLQWFe;eHDfl:ofjVkb;qaS3gd:yiLg6e;nAFL3:NTMZac,s39S4;oGtAuc:sOXFj;iFQyKf:vfuNJf,QIhFr;SNUn3:ZwDk9d,x8cHvb;io8t5d:sgY6Zb;Oj465e:KG2eXe,KG2eXe;Erl4fe:FloWmf,FloWmf;JsbNhc:Xd8iUd;sP4Vbe:VwDzFe;kMFpHd:OTA3Ae;uY49fb:COQbmf;Pjplud:PoEs9b,EEDORb;QGR0gd:Mlhmy;a56pNe:JEfCwb;Me32dd:MEeYgc;wR5FRb:TtcOte,O1Gjze;pXdRYb:JKoKVe,MdUzUe;dIoSBb:ZgGg9b;EmZ2Bf:zr1jrb;NSEoX:lazG7b;eBAeSb:Ck63tb;WCEKNd:I46Hvd;wV5Pjc:L8KGxe;EVNhjf:pw70Gc;sTsDMc:kHVSUb;wQlYve:aLUfP;zOsCQe:Ko78Df;KcokUb:KiuZBf;YV5bee:IvPZ6d;kbAm9d:MkHyGd;ZWEUA:afR4Cf;g8nkx:U4MzKc;lzgfYb:PI40bd;w9w86d:dt4g2b;GleZL:J1A7Od;bcPXSc:gSZLJb;JXS8fb:Qj0suc;IoGlCf:b5lhvb;vfVwPd:OXTqFb;ESrPQc:mNTJvc;qavrXe:zQzcXe,mYbt1d;pNsl2d:j9Yuyc;VGRfx:VFqbr;BjwMce:cXX2Wb;R9Ulx:CR7Ufe;kY7VAf:d91TEb;KpRAue:Tia57b;jY0zg:Q6tNgc;l8Azde:j4Ca9b;oSUNyd:fTfGO,fTfGO,vjQg0b;SMDL4c:fTfGO,vjQg0b;aZ61od:arTwJ;ZrFutb:W4Cdfc;K8vqCc:MyIcle;NPKaK:SdcwHb;LBgRLc:XVMNvd,SdcwHb;rQSrae:C6D5Fc;kCQyJ:ueyPK;KQzWid:mB4wNe;EABSZ:MXZt9d;TxfV6d:YORN0b;UDrY1c:eps46d;F9mqte:UoRcbe;Nyt6ic:jn2sGd;w3bZCb:ZPGaIb;G0KhTb:LIaoZ;aAJE9c:WHW6Ef;V2HTTe:RolTY;Wfmdue:g3MJlb;imqimf:jKGL2e;BgS6mb:fidj5d;UVmjEd:EesRsb;z97YGf:oug9te;AfeaP:TkrAjf;eBZ5Nd:audvde;CxXAWb:YyRLvc;VN6jIc:ddQyuf;SLtqO:Kh1xYe;tosKvd:ZCqP3;VOcgDe:YquhTb;uuQkY:u2V3ud;WDGyFe:jcVOxd;trZL0b:qY8PFe;VxQ32b:k0XsBb;DULqB:RKfG5c;Np8Qkd:Dpx6qc;cFTWae:gT8qnd;gaub4:TN6bMe;xBbsrc:NEW1Qc;DpcR3d:zL72xf;hjRo6e:F62sG;yGxLoc:FmAr0c;oUlnpc:RagDlc;R2kc8b:ALJqWb;pj82le:mg5CW;dLlj2:Qqt3Gf;qGV2uc:HHi04c;gtVSi:ekUOYd;UyG7Kb:wQd0G;LsNahb:ucGLNb;xbe2wc:wbTLEd;Q1Ow7b:x5CSu;okUaUd:wItadb;G6wU6e:hezEbd;uknmt:GkPrzb;PqHfGe:im2cZe;Fmv9Nc:O1Tzwc;hK67qb:QWEO5b;BMxAGc:E5bFse;R4IIIb:QWfeKf;whEZac:F4AmNb;tH4IIe:Ymry6;zxnPse:GkRiKb;xqZiqf:wmnU7d;lkq0A:Z0MWEf;daB6be:lMxGPd;U96pRd:FsR04;LEikZe:byfTOb,lsjVmc/m=attn,cdos,cr,gwc,hsm,jsanr,mb4ZUb,d,csi,cEt90b,SNUn3,qddgKe,sTsDMc,dtl0hd,eHDfl:406:40
+
+JavaScript warning: https://chat.openai.com/_next/static/chunks/pages/_app-4f76c5b49d4ee9ec.js, line 13: Script terminated by timeout at:
+53144/eO/<@https://chat.openai.com/_next/static/chunks/pages/_app-4f76c5b49d4ee9ec.js:13:4527
+G@https://chat.openai.com/_next/static/chunks/pages/_app-4f76c5b49d4ee9ec.js:13:3876
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=80207d1f89c510a6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=80207d1f89c510a6, line 1: Script terminated by timeout at:
+g@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=80207d1f89c510a6:1:179215
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=80207d49880210a6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=80207e00ea5110a6, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 1359: Script terminated by timeout at:
+al/<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:1359:47
+
+1693938120171	Marionette	INFO	Stopped listening on port 62255
+Dynamically enable window occlusion 1
+1694008642836	geckodriver	INFO	Listening on 127.0.0.1:62263
+1694008645851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62264" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofileAkKABx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694008646674	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694008646782	Marionette	INFO	Listening on port 62272
+WebDriver BiDi listening on ws://127.0.0.1:62264
+Read port: 62272
+1694008647180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62264/devtools/browser/366b1ab5-e305-4060-a409-c1f644cbb493
+JavaScript warning: https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 3575: Script terminated by timeout at:
+Ft</a.prototype._setPendingProperty@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3575:41
+zNa@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3544:132
+Ct@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3533:218
+Ft</a.prototype._propertiesChanged@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3584:359
+QMa</b.prototype._flushProperties@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3456:200
+Ft</a.prototype.__enableOrFlushClients@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3580:190
+Ft</a.prototype._flushClients@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3579:67
+Ft</a.prototype._propertiesChanged@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3585:69
+QMa</b.prototype._flushProperties@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3456:200
+Ft</a.prototype.__enableOrFlushClients@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3580:190
+Ft</a.prototype._flushClients@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3579:67
+Ft</a.prototype._propertiesChanged@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3585:69
+QMa</b.prototype._flushProperties@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3456:200
+Ft</a.prototype.__enableOrFlushClients@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3580:190
+Ft</a.prototype._flushClients@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3579:67
+Ft</a.prototype._propertiesChanged@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3585:69
+QMa</b.prototype._flushProperties@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3456:200
+Ft</a.prototype._invalidateProperties@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3577:69
+QMa</b.prototype._definePropertyAccessor/<.set<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3446:71
+flushRenderStamperComponentBindings_@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:12331:227
+stampDomArraySplices_@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:12319:455
+rendererStamperApplyChangeRecord_@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:12315:11
+rendererStamperObserver_@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:12312:149
+ANa@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3551:119
+Ct@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3533:218
+Ft</a.prototype._propertiesChanged@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3585:124
+QMa</b.prototype._flushProperties@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3456:200
+Ft</a.prototype._invalidateProperties@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3577:69
+Ft</a.prototype.notifyPath@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3600:182
+MNa@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3558:91
+Dt@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3559:29
+Ft</a.prototype.push@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3595:130
+fillRange_@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:13400:117
+renderChunk_@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:13404:180
+FMb/this.wrappedJob@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:12064:145
+S@https://www.youtube.com/s/desktop/fc8159e8/jsbin/scheduler.vflset/scheduler.js:45:19
+V@https://www.youtube.com/s/desktop/fc8159e8/jsbin/scheduler.vflset/scheduler.js:54:415
+g.S@https://www.youtube.com/s/desktop/fc8159e8/jsbin/scheduler.vflset/scheduler.js:50:84
+window.requestAnimationFrame/<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/web-animations-next-lite.min.vflset/web-animations-next-lite.min.js:96:192
+
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+1694008655344	Marionette	INFO	Stopped listening on port 62272
+Dynamically enable window occlusion 1
+1694008707235	geckodriver	INFO	Listening on 127.0.0.1:62333
+1694008710240	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62334" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofilexfCy1Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694008710681	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694008710779	Marionette	INFO	Listening on port 62341
+WebDriver BiDi listening on ws://127.0.0.1:62334
+Read port: 62341
+1694008711081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62334/devtools/browser/06cd4933-907d-4671-b7d3-2fb3b770fa29
+[Child 1172, MediaDecoderStateMachine #1] WARNING: 2720f80c130 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 6835 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 1671: Script terminated by timeout at:
+Zra/this.done</<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:1671:177
+
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1694008731722	Marionette	INFO	Stopped listening on port 62341
+Dynamically enable window occlusion 1
+1694008800727	geckodriver	INFO	Listening on 127.0.0.1:62421
+1694008803734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofiletmb5Bg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694008804169	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694008804261	Marionette	INFO	Listening on port 62429
+WebDriver BiDi listening on ws://127.0.0.1:62422
+Read port: 62429
+1694008804547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62422/devtools/browser/af316aac-d365-488a-9639-086426a3567a
+[Child 2852, MediaDecoderStateMachine #1] WARNING: 1bc454a6ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 1156 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 2852, MediaDecoderStateMachine #1] WARNING: 1bc455c2890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 1156 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694008855280	Marionette	INFO	Stopped listening on port 62429
+Dynamically enable window occlusion 1
+1694009044068	geckodriver	INFO	Listening on 127.0.0.1:62702
+1694009047072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofileDkFh0a"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694009047522	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694009047620	Marionette	INFO	Listening on port 62710
+WebDriver BiDi listening on ws://127.0.0.1:62703
+Read port: 62710
+1694009047933	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62703/devtools/browser/1d7a4117-98c3-4ba7-ae22-bc0473771d0b
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 2241 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10492, MediaDecoderStateMachine #1] WARNING: 185f4e54020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 7243 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 165 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10492, MediaDecoderStateMachine #1] WARNING: 185e5f05de0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 7243 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10492, MediaDecoderStateMachine #1] WARNING: 185f091c020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 10492, MediaDecoderStateMachine #1] WARNING: 185f3c7cce0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 10492, MediaDecoderStateMachine #1] WARNING: 185f3d4b340 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 7243 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10492, MediaDecoderStateMachine #1] WARNING: 185f6771de0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 2542: Script terminated by timeout at:
+Cp.prototype.transition@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:2542:33
+cI/<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:8498:114
+
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1694009134514	Marionette	INFO	Stopped listening on port 62710
+Dynamically enable window occlusion 1
+1694009772696	geckodriver	INFO	Listening on 127.0.0.1:62931
+1694009775701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62932" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofilegKzWgF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694009776132	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694009776226	Marionette	INFO	Listening on port 62939
+WebDriver BiDi listening on ws://127.0.0.1:62932
+Read port: 62939
+1694009776492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62932/devtools/browser/cfc0cd77-951d-4cd0-b76b-37ed5c24b164
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.math.popup%7Cext.popups.icons%2Cimages%2Cmain%7Cmediawiki.ui.checkbox&skin=vector-2022&version=1dwpb, line 48: Script terminated by timeout at:
+./src/index.js/it/<@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.math.popup%7Cext.popups.icons%2Cimages%2Cmain%7Cmediawiki.ui.checkbox&skin=vector-2022&version=1dwpb:48:606
+
+1694009826650	Marionette	INFO	Stopped listening on port 62939
+Dynamically enable window occlusion 1
+1694010465991	geckodriver	INFO	Listening on 127.0.0.1:63119
+1694010469002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63120" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofileCXHf3q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694010469422	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694010469513	Marionette	INFO	Listening on port 63127
+WebDriver BiDi listening on ws://127.0.0.1:63120
+Read port: 63127
+1694010469807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63120/devtools/browser/5d8562d0-b6f5-4323-b19b-727372d87ed5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+1694010568292	Marionette	INFO	Stopped listening on port 63127
+Dynamically enable window occlusion 1
+1694010617946	geckodriver	INFO	Listening on 127.0.0.1:63212
+1694010621028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofiled2zYn2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694010621703	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694010621794	Marionette	INFO	Listening on port 63221
+WebDriver BiDi listening on ws://127.0.0.1:63213
+Read port: 63221
+Read port: 63221
+Read port: 63221
+1694010625229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63213/devtools/browser/adcb18a6-5a44-40a8-979b-b66d0c72c7a3
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 638))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cirrus.serp%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.wikimediaEvents.specialPages%7Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Coojs-ui.styles.icons-content%2Cicons-editing-advanced%2Cicons-interactions%2Cicons-layout%7Cskins.vector.icons.js%7Cskins.vector.js&skin=vector-2022&version=1ynke, line 95: Script terminated by timeout at:
+sendBeacon@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cirrus.serp%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.wikimediaEvents.specialPages%7Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Coojs-ui.styles.icons-content%2Cicons-editing-advanced%2Cicons-interactions%2Cicons-layout%7Cskins.vector.icons.js%7Cskins.vector.js&skin=vector-2022&version=1ynke:95:388
+flush@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cirrus.serp%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.wikimediaEvents.specialPages%7Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Coojs-ui.styles.icons-content%2Cicons-editing-advanced%2Cicons-interactions%2Cicons-layout%7Cskins.vector.icons.js%7Cskins.vector.js&skin=vector-2022&version=1ynke:138:249
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/queue.flush@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cirrus.serp%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.wikimediaEvents.specialPages%7Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Coojs-ui.styles.icons-content%2Cicons-editing-advanced%2Cicons-interactions%2Cicons-layout%7Cskins.vector.icons.js%7Cskins.vector.js&skin=vector-2022&version=1ynke:100:507
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/<@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.advancedSearch.SearchFieldUI%2Celements%2Cinit%2Cstyles%7Cext.centralNotice.geoIP%7Cext.centralauth.centralautologin%7Cext.cirrus.serp%7Cext.cx.eventlogging.campaigns%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.tmh.OgvJsSupport%2Cplayer%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cext.wikimediaEvents.specialPages%7Cjquery%2Coojs%2Coojs-ui-core%2Coojs-ui-widgets%2Csite%7Cjquery.client%2ChighlightText%2Csuggestions%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2CsearchSuggest%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%2Cwidgets%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmediawiki.special.search%7Cmediawiki.widgets.SearchInputWidget%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Coojs-ui-widgets.icons%7Coojs-ui.styles.icons-content%2Cicons-editing-advanced%2Cicons-interactions%2Cicons-layout%7Cskins.vector.icons.js%7Cskins.vector.js&skin=vector-2022&version=1ynke:100:748
+
+1694010645713	Marionette	INFO	Stopped listening on port 63221
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1694010709064	geckodriver	INFO	Listening on 127.0.0.1:63278
+1694010712074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63279" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofileyauh5y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694010712491	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694010712583	Marionette	INFO	Listening on port 63286
+WebDriver BiDi listening on ws://127.0.0.1:63279
+Read port: 63286
+1694010712873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63279/devtools/browser/53b14d92-52da-4f19-b8bf-30273f6b1c17
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+1694010724743	Marionette	INFO	Stopped listening on port 63286
+Dynamically enable window occlusion 1
+1694010800798	geckodriver	INFO	Listening on 127.0.0.1:63341
+1694010803803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63342" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofileXuSQ7p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694010804240	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694010804340	Marionette	INFO	Listening on port 63349
+WebDriver BiDi listening on ws://127.0.0.1:63342
+Read port: 63349
+1694010804647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63342/devtools/browser/b72d8db7-9093-4ca4-8d42-619b8b624377
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 7567 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 12056, MediaDecoderStateMachine #1] WARNING: 202c17d1120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 7686 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 12056, MediaDecoderStateMachine #1] WARNING: 202c4d81560 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 7686 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 3851 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 12056, MediaDecoderStateMachine #1] WARNING: 202c26b5020 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 7686 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 1977: Script terminated by timeout at:
+Un@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:1977:44
+Wn/l<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:1984:377
+al/<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:1359:63
+
+JavaScript error: resource://gre/actors/AudioPlaybackParent.sys.mjs, line 21: TypeError: browser is null
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+1694011056213	Marionette	INFO	Stopped listening on port 63349
+Dynamically enable window occlusion 1
+1694011101394	geckodriver	INFO	Listening on 127.0.0.1:63474
+1694011104399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofilegELtVs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694011104812	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694011104902	Marionette	INFO	Listening on port 63482
+Read port: 63482
+WebDriver BiDi listening on ws://127.0.0.1:63475
+1694011104992	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63475/devtools/browser/f1149aa7-ef0d-45bc-8b5f-1ec4663f1786
+[Child 2892, MediaDecoderStateMachine #1] WARNING: 152b36c1460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 1786 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 6817 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 1359: Script terminated by timeout at:
+al/<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:1359:47
+
+JavaScript error: resource://gre/actors/AudioPlaybackParent.sys.mjs, line 21: TypeError: browser is null
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+1694011119262	Marionette	INFO	Stopped listening on port 63482
+Dynamically enable window occlusion 1
+1694011158566	geckodriver	INFO	Listening on 127.0.0.1:63564
+1694011161573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofileA47ZLR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694011162016	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694011162114	Marionette	INFO	Listening on port 63573
+WebDriver BiDi listening on ws://127.0.0.1:63565
+Read port: 63573
+1694011162395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63565/devtools/browser/39d85b29-7e77-47be-a2e9-4482496da4c0
+[Child 14952, MediaDecoderStateMachine #1] WARNING: 1ff5d09b8a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 1513 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 5270 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 484 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 14952, MediaDecoderStateMachine #1] WARNING: 1ff60718350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 5270 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 14952, MediaDecoderStateMachine #1] WARNING: 1ff5ac50230 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 5270 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 12329: Script terminated by timeout at:
+flushRenderStamperComponentBindings_@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:12329:46
+stampDomArray_@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:12322:422
+rendererStamperApplyChangeRecord_@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:12315:11
+rendererStamperObserver_@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:12312:149
+ANa@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3551:119
+Ct@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3533:218
+Ft</a.prototype._propertiesChanged@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3585:124
+QMa</b.prototype._flushProperties@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3456:200
+Ft</a.prototype._invalidateProperties@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3577:69
+QMa</b.prototype._definePropertyAccessor/<.set<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:3446:71
+f.updateRendererStamper@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:19599:169
+f.setCompanionData@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:19604:137
+f.receiveCompanionData@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:19602:104
+fj.prototype.publish@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:951:367
+Lkb/va[c]/e<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:7235:119
+al/<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:1359:63
+
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1694011286364	Marionette	INFO	Stopped listening on port 63573
+Dynamically enable window occlusion 1
+1694011331906	geckodriver	INFO	Listening on 127.0.0.1:63699
+1694011334911	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63700" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofileOgVYgi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694011335346	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694011335438	Marionette	INFO	Listening on port 63707
+WebDriver BiDi listening on ws://127.0.0.1:63700
+Read port: 63707
+1694011335726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63700/devtools/browser/5bfb4f2a-0d51-4193-83c9-f792cea17279
+[Child 8060, MediaDecoderStateMachine #1] WARNING: 13106a7b790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/QWzZRjgqb53KCPJmDiPDE6lnZUdFGzmO3KDfy6MXCng.js line 2 > eval line 3246 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 6247 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 8060, MediaDecoderStateMachine #1] WARNING: 13106a7b680 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 8060, MediaDecoderStateMachine #1] WARNING: 13106a6f890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 8060, MediaDecoderStateMachine #1] WARNING: 12ef5dc3890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/fVV-MN6RwrQ4B-VMAlqKh_6wLqAJCU5xhilRORsdIR0.js line 2 > eval line 6247 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 1619: Script terminated by timeout at:
+c@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:1619:122
+e@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:1628:371
+
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1694011385373	Marionette	INFO	Stopped listening on port 63707
+Dynamically enable window occlusion 1
+1694374067612	geckodriver	INFO	Listening on 127.0.0.1:50420
+1694374070611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofilevSLtaf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694374071447	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694374071556	Marionette	INFO	Listening on port 50429
+WebDriver BiDi listening on ws://127.0.0.1:50421
+Read port: 50429
+1694374071881	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50421/devtools/browser/04bf59b4-d8fa-409a-8ed9-84b18a818ce8
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GMNNf8dPzMFRWE2GFsJAeeYNxVBqAV2Fx36SZG50-nU.js line 2 > eval line 5003 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 8260, MediaDecoderStateMachine #1] WARNING: 2b0d5262cd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/YrBCSterhsz94EJsjD3v7ys0foxm0QN59WDQGgS59_8.js line 2 > eval line 1599 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 8260, MediaDecoderStateMachine #1] WARNING: 2b0cfb22130 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/YrBCSterhsz94EJsjD3v7ys0foxm0QN59WDQGgS59_8.js line 2 > eval line 1599 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 8260, MediaDecoderStateMachine #1] WARNING: 2b0d12f8890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 8260, MediaDecoderStateMachine #1] WARNING: 2b0d1ff29b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 8260, MediaDecoderStateMachine #1] WARNING: 2b0d3a17460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 8260, MediaDecoderStateMachine #1] WARNING: 2b0d12f89a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1694382544385	Marionette	INFO	Stopped listening on port 50429
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+JavaScript error: https://www.youtube.com/results?search_query=finding%20Wood%20Avenue%20by%20Ariana%20Grande, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/results?search_query=finding%20Wood%20Avenue%20by%20Ariana%20Grande, line 12: TypeError: can't access dead object
+JavaScript error: https://www.google.com/js/th/YrBCSterhsz94EJsjD3v7ys0foxm0QN59WDQGgS59_8.js line 2 > eval, line 1599: TypeError: can't access dead object
+1694406204061	geckodriver	INFO	Listening on 127.0.0.1:64896
+1694406207064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofileboWVsV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694406207535	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694406207636	Marionette	INFO	Listening on port 64907
+WebDriver BiDi listening on ws://127.0.0.1:64897
+Read port: 64907
+1694406207942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64897/devtools/browser/6822ee56-a1e3-49ed-9e3f-1c722c591c34
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1n79n, line 122: Script terminated by timeout at:
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/queue.flush@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1n79n:122:511
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/<@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1n79n:122:585
+
+1694409729673	Marionette	INFO	Stopped listening on port 64907
+Dynamically enable window occlusion 1
+will be removed. Please use RENDERER.
+[Child 1572, MediaDecoderStateMachine #2] WARNING: 29f8b323cd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 1572, MediaDecoderStateMachine #2] WARNING: 29f8b322f00 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 1572, MediaDecoderStateMachine #2] WARNING: 29f8a655340 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 1572, MediaDecoderStateMachine #2] WARNING: 29f8ce84560 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 1572, MediaDecoderStateMachine #2] WARNING: 29f89d9ede0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 1572, MediaDecoderStateMachine #2] WARNING: 29f8a607bd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 1572, MediaDecoderStateMachine #2] WARNING: 29f8a607ce0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 1572, MediaDecoderStateMachine #2] WARNING: 29f89d9e890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 1572, MediaDecoderStateMachine #2] WARNING: 29f8b323ef0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GMNNf8dPzMFRWE2GFsJAeeYNxVBqAV2Fx36SZG50-nU.js line 2 > eval line 7192 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 1572, MediaDecoderStateMachine #3] WARNING: 29f8c21b9b0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/YrBCSterhsz94EJsjD3v7ys0foxm0QN59WDQGgS59_8.js line 2 > eval line 5041 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 1572, MediaDecoderStateMachine #3] WARNING: 29f8b79b350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 1572, MediaDecoderStateMachine #3] WARNING: 29f8e627460 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 1572, MediaDecoderStateMachine #3] WARNING: 29f8ecb7de0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/YrBCSterhsz94EJsjD3v7ys0foxm0QN59WDQGgS59_8.js line 2 > eval line 5041 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 1572, MediaDecoderStateMachine #3] WARNING: 29f87375890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js, line 1921: Script terminated by timeout at:
+m@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:1921:44
+
+1694408935056	Marionette	INFO	Stopped listening on port 65025
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1694409158795	geckodriver	INFO	Listening on 127.0.0.1:50053
+1694409161798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50054" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofileN2KGdb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694409162208	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694409162297	Marionette	INFO	Listening on port 50061
+WebDriver BiDi listening on ws://127.0.0.1:50054
+Read port: 50061
+1694409162510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50054/devtools/browser/79a01d29-15a4-4156-a4a8-2abcf10ccd3a
+[Child 14972, MediaDecoderStateMachine #1] WARNING: 1c6f6d1a890 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GMNNf8dPzMFRWE2GFsJAeeYNxVBqAV2Fx36SZG50-nU.js line 2 > eval line 5991 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/YrBCSterhsz94EJsjD3v7ys0foxm0QN59WDQGgS59_8.js line 2 > eval line 3242 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GMNNf8dPzMFRWE2GFsJAeeYNxVBqAV2Fx36SZG50-nU.js line 2 > eval line 3997 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 14972, MediaDecoderStateMachine #1] WARNING: 1c6f53c3240 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/YrBCSterhsz94EJsjD3v7ys0foxm0QN59WDQGgS59_8.js line 2 > eval line 3242 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 14972, MediaDecoderStateMachine #1] WARNING: 1c6f6a59350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/YrBCSterhsz94EJsjD3v7ys0foxm0QN59WDQGgS59_8.js line 2 > eval line 3242 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 14972, MediaDecoderStateMachine #1] WARNING: 1c6f5b49130 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 14972, MediaDecoderStateMachine #1] WARNING: 1c6f6a598a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+1694409728939	Marionette	INFO	Stopped listening on port 50061
+Dynamically enable window occlusion 1
+rn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694409205925	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694409206024	Marionette	INFO	Listening on port 50156
+WebDriver BiDi listening on ws://127.0.0.1:50149
+Read port: 50156
+1694409206324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50149/devtools/browser/fdd74881-ae8f-4607-a339-a78b4194e7ea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1n79n, line 122: Script terminated by timeout at:
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/queue.flush@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1n79n:122:511
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/<@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1n79n:122:585
+
+1694409277816	Marionette	INFO	Stopped listening on port 50156
+Dynamically enable window occlusion 1
+1694409743265	geckodriver	INFO	Listening on 127.0.0.1:50297
+1694409746273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50298" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofilesYxBDz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694409746703	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694409746795	Marionette	INFO	Listening on port 50305
+WebDriver BiDi listening on ws://127.0.0.1:50298
+Read port: 50305
+1694409747075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50298/devtools/browser/df08e0e2-1d72-41d0-8d3d-8ef7a87dbc5a
+[Child 10564, MediaDecoderStateMachine #1] WARNING: 1a31e5f8bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3m8HFB-ShPtDzcYempcQY_ASUwv-AHBHVawPPC3Nvm0.js line 2 > eval line 5586 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10564, MediaDecoderStateMachine #1] WARNING: 1a31e5f8bc0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/YrBCSterhsz94EJsjD3v7ys0foxm0QN59WDQGgS59_8.js line 2 > eval line 2475 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 10564, MediaDecoderStateMachine #1] WARNING: 1a320ed4350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/YrBCSterhsz94EJsjD3v7ys0foxm0QN59WDQGgS59_8.js line 2 > eval line 2475 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js, line 2757: Script terminated by timeout at:
+Ova@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:2757:23
+iI@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:2742:347
+g.nC/<@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:1876:65
+BI@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:2772:35
+@https://www.youtube.com/results?search_query=Honeymoon%20Avenue%20by%20Ariana%20Grande:15:496
+
+1694410000357	Marionette	INFO	Stopped listening on port 50305
+Dynamically enable window occlusion 1
+1694410030478	geckodriver	INFO	Listening on 127.0.0.1:50430
+1694410033485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50431" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofilearDfF8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694410033902	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694410033993	Marionette	INFO	Listening on port 50439
+WebDriver BiDi listening on ws://127.0.0.1:50431
+Read port: 50439
+1694410034303	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50431/devtools/browser/55d99c23-144b-4cdd-a4fa-eef32176beae
+[Child 1976, MediaDecoderStateMachine #1] WARNING: 19a38db5350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+[Child 1976, MediaDecoderStateMachine #1] WARNING: 19a38db5350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/YrBCSterhsz94EJsjD3v7ys0foxm0QN59WDQGgS59_8.js line 2 > eval line 1324 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/YrBCSterhsz94EJsjD3v7ys0foxm0QN59WDQGgS59_8.js line 2 > eval line 1324 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js, line 7586: Script terminated by timeout at:
+Qc.prototype.init@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:7586:138
+Qc@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:265:362
+kba@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:301:44
+a@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:295:39
+
+1694410054097	Marionette	INFO	Stopped listening on port 50439
+Dynamically enable window occlusion 1
+1694410139979	geckodriver	INFO	Listening on 127.0.0.1:50514
+1694410142990	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofilexWvtDT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694410143401	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694410143493	Marionette	INFO	Listening on port 50522
+WebDriver BiDi listening on ws://127.0.0.1:50515
+Read port: 50522
+1694410143767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50515/devtools/browser/f7ef75f6-00d0-4773-89f8-9d5c7b64681a
+[Child 17080, MediaDecoderStateMachine #1] WARNING: 19c70964ab0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3m8HFB-ShPtDzcYempcQY_ASUwv-AHBHVawPPC3Nvm0.js line 2 > eval line 4533 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/YrBCSterhsz94EJsjD3v7ys0foxm0QN59WDQGgS59_8.js line 2 > eval line 2413 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/3m8HFB-ShPtDzcYempcQY_ASUwv-AHBHVawPPC3Nvm0.js line 2 > eval line 2181 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 17080, MediaDecoderStateMachine #1] WARNING: 19c70963df0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/YrBCSterhsz94EJsjD3v7ys0foxm0QN59WDQGgS59_8.js line 2 > eval line 2413 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 17080, MediaDecoderStateMachine #1] WARNING: 19c71b99bd0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/YrBCSterhsz94EJsjD3v7ys0foxm0QN59WDQGgS59_8.js line 2 > eval line 2413 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 1619: Script terminated by timeout at:
+c@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:1619:122
+e@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:1628:371
+
+1694410355620	Marionette	INFO	Stopped listening on port 50522
+Dynamically enable window occlusion 1
+ed
+Dynamically enable window occlusion 0
+1694410225080	Marionette	INFO	Listening on port 50616
+WebDriver BiDi listening on ws://127.0.0.1:50609
+Read port: 50616
+1694410225372	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50609/devtools/browser/b68bcda2-5ea2-4e55-bf6f-f2b9ca2f3b0e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1n79n, line 122: Script terminated by timeout at:
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/queue.flush@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1n79n:122:511
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/<@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1n79n:122:585
+
+1694410356564	Marionette	INFO	Stopped listening on port 50616
+Dynamically enable window occlusion 1
+1694423434461	geckodriver	INFO	Listening on 127.0.0.1:52022
+1694423437466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52023" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofileMfjHz6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694423437893	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694423437987	Marionette	INFO	Listening on port 52031
+WebDriver BiDi listening on ws://127.0.0.1:52023
+Read port: 52031
+1694423438298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52023/devtools/browser/707e4cb1-0ee8-41e3-9a0e-8070b400b15f
+[Child 12328, MediaDecoderStateMachine #1] WARNING: 229857e7010 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/81CWfJXVKlsu8MGYrMOugZJXbT_ZbGgEcWoW7e6PqgM.js line 2 > eval line 3651 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/_vJynN5KAWzV-u4i4qf1yy3siiLGs8XVUDdeWg6qJso.js line 2 > eval line 5535 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 12328, MediaDecoderStateMachine #1] WARNING: 22985409790 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/_vJynN5KAWzV-u4i4qf1yy3siiLGs8XVUDdeWg6qJso.js line 2 > eval line 5535 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js, line 2014: Script terminated by timeout at:
+Nna@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:2014:44
+WP@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:3983:48
+a1@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:6723:193
+Q0@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:6733:59
+g.S0/this.Ag@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:6687:54
+g.k.ra@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:8166:291
+g.DG.prototype.ra@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:8548:72
+g.k.Ag@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:11348:171
+LZa/this.C@https://www.youtube.com/s/player/7ee36b0e/player_ias.vflset/en_US/base.js:5713:132
+
+1694423622920	Marionette	INFO	Stopped listening on port 52031
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+Dynamically enable window occlusion 1
+1694423738676	geckodriver	INFO	Listening on 127.0.0.1:52148
+1694423741688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52149" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofilewp9wg3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694423742149	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694423742248	Marionette	INFO	Listening on port 52156
+WebDriver BiDi listening on ws://127.0.0.1:52149
+Read port: 52156
+1694423742530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52149/devtools/browser/44f4ed6a-f00c-486f-8781-b5fe34b4c774
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+1694423754732	Marionette	INFO	Stopped listening on port 52156
+Dynamically enable window occlusion 1
+1694425428442	geckodriver	INFO	Listening on 127.0.0.1:52637
+1694425431440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52638" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofilevyh4wy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694425431895	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694425432004	Marionette	INFO	Listening on port 52645
+WebDriver BiDi listening on ws://127.0.0.1:52638
+Read port: 52645
+1694425432311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1694425434807	Marionette	INFO	Stopped listening on port 52645
+Dynamically enable window occlusion 1
+1694425434821	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+1694425559454	geckodriver	INFO	Listening on 127.0.0.1:52707
+1694425562465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52708" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofileGjnioL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694425562891	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694425562983	Marionette	INFO	Listening on port 52719
+WebDriver BiDi listening on ws://127.0.0.1:52708
+Read port: 52719
+1694425563206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52708/devtools/browser/facf5f32-b69c-49a6-b7dd-6675281f3d98
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.math.popup%7Cext.popups.icons%2Cimages%2Cmain%7Cmediawiki.ui.checkbox&skin=vector-2022&version=lrdy9, line 49: Script terminated by timeout at:
+./src/index.js/it/<@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.math.popup%7Cext.popups.icons%2Cimages%2Cmain%7Cmediawiki.ui.checkbox&skin=vector-2022&version=lrdy9:49:42
+
+1694425579180	Marionette	INFO	Stopped listening on port 52719
+Dynamically enable window occlusion 1
+1694425619644	geckodriver	INFO	Listening on 127.0.0.1:52768
+1694425622655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofilemExOYe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694425623150	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694425623245	Marionette	INFO	Listening on port 52776
+WebDriver BiDi listening on ws://127.0.0.1:52769
+Read port: 52776
+1694425623548	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52769/devtools/browser/0ce8da4d-2c1a-40c7-b86d-747634fe9a52
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1s6xw, line 122: Script terminated by timeout at:
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/queue.flush@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%JavaScript warning: https://www.youtube.com/s/desktop/fc8159e8/jsbin/webcomponents-sd.vflset/webcomponents-sd.js, line 95: Script terminated by timeout at:
+get shadowRoot@https://www.youtube.com/s/desktop/fc8159e8/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:95:460
+get assignedSlot@https://www.youtube.com/s/desktop/fc8159e8/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:67:469
+pb@https://www.youtube.com/s/desktop/fc8159e8/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:39:56
+composedPath@https://www.youtube.com/s/desktop/fc8159e8/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:40:274
+zb@https://www.youtube.com/s/desktop/fc8159e8/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:44:48
+Fb/<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/webcomponents-sd.vflset/webcomponents-sd.js:51:103
+
+1694426499474	Marionette	INFO	Stopped listening on port 52847
+Dynamically enable window occlusion 1
+ions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.scribunto.logs%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Csite%7Cjquery.client%2CmakeCollapsible%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=1s6xw:122:585
+
+1694426498480	Marionette	INFO	Stopped listening on port 52776
+Dynamically enable window occlusion 1
+/127.0.0.1:53046/devtools/browser/a359f4d1-3fbd-4b54-a463-7a95183814bc
+[Child 14184, MediaDecoderStateMachine #1] WARNING: 25e443f8240 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/81CWfJXVKlsu8MGYrMOugZJXbT_ZbGgEcWoW7e6PqgM.js line 2 > eval line 4681 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 8485: Script terminated by timeout at:
+jrb/</<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:8485:201
+
+JavaScript error: resource://gre/actors/AudioPlaybackParent.sys.mjs, line 21: TypeError: browser is null
+JavaScript error: resource://gre/modules/PictureInPicture.sys.mjs, line 556: TypeError: browser is null
+1694425909596	Marionette	INFO	Stopped listening on port 53053
+Dynamically enable window occlusion 1
+1694426509753	geckodriver	INFO	Listening on 127.0.0.1:53423
+1694426512759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53424" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\An\\AppData\\Local\\Temp\\rust_mozprofile6qbL1c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694426513186	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694426513276	Marionette	INFO	Listening on port 53432
+WebDriver BiDi listening on ws://127.0.0.1:53424
+Read port: 53432
+1694426513567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53424/devtools/browser/c7ac6258-e50c-4da2-bc08-2c0a33d8b2c6
+[Child 5324, MediaDecoderStateMachine #1] WARNING: 1a2c4192350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://pagead2.googlesyndication.com/bg/81CWfJXVKlsu8MGYrMOugZJXbT_ZbGgEcWoW7e6PqgM.js line 2 > eval line 1316 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5324, MediaDecoderStateMachine #1] WARNING: 1a2c4192350 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/_vJynN5KAWzV-u4i4qf1yy3siiLGs8XVUDdeWg6qJso.js line 2 > eval line 1558 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 5324, MediaDecoderStateMachine #1] WARNING: 1a2c766cf00 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript warning: https://www.google.com/js/th/_vJynN5KAWzV-u4i4qf1yy3siiLGs8XVUDdeWg6qJso.js line 2 > eval line 1558 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js, line 2542: Script terminated by timeout at:
+Cp.prototype.transition@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:2542:33
+cI/<@https://www.youtube.com/s/desktop/fc8159e8/jsbin/desktop_polymer_enable_wil_icons.vflset/desktop_polymer_enable_wil_icons.js:8498:114
+
+1694426728155	Marionette	INFO	Stopped listening on port 53432
+Dynamically enable window occlusion 1
+indow occlusion 0
+1694426588787	Marionette	INFO	Listening on port 53511
+WebDriver BiDi listening on ws://127.0.0.1:53504
+Read port: 53511
+1694426589108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53504/devtools/browser/a6cd5264-94d1-44b8-955a-03cae313eb5d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.wikipedia.org."
+JavaScript warning: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.flaggedRevs.advanced%7Cext.growthExperiments.SuggestedEditSession%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-ui%2Coojs-ui-core%2Coojs-ui-toolbars%2Coojs-ui-widgets%2Coojs-ui-windows%2Csite%7Cjquery.client%2CmakeCollapsible%2Cspinner%2Ctablesorter%2CtextSelection%7Cjquery.spinner.styles%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cdiff%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.diff.styles%7Cmediawiki.editfont.styles%7Cmediawiki.interface.helpers.styles%7Cmediawiki.language.months%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui-toolbars.icons%7Coojs-ui-widgets.icons%7Coojs-ui-windows.icons%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=qpyhc, line 122: Script terminated by timeout at:
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/queue.flush@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.flaggedRevs.advanced%7Cext.growthExperiments.SuggestedEditSession%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-ui%2Coojs-ui-core%2Coojs-ui-toolbars%2Coojs-ui-widgets%2Coojs-ui-windows%2Csite%7Cjquery.client%2CmakeCollapsible%2Cspinner%2Ctablesorter%2CtextSelection%7Cjquery.spinner.styles%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cdiff%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.diff.styles%7Cmediawiki.editfont.styles%7Cmediawiki.interface.helpers.styles%7Cmediawiki.language.months%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui-toolbars.icons%7Coojs-ui-widgets.icons%7Coojs-ui-windows.icons%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=qpyhc:122:511
+ext.eventLogging/BackgroundQueue.js/BackgroundQueue/<@https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.bannerHistoryLogger%2CchoiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2ClargeBannerLimit%2ClegacySupport%2CstartUp%7Cext.centralauth.ForeignApi%2Ccentralautologin%7Cext.checkUser.clientHints%7Cext.cite.ux-enhancements%7Cext.cx.eventlogging.campaigns%7Cext.cx.model%7Cext.cx.uls.quick.actions%7Cext.echo.centralauth%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.flaggedRevs.advanced%7Cext.growthExperiments.SuggestedEditSession%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-ui%2Coojs-ui-core%2Coojs-ui-toolbars%2Coojs-ui-widgets%2Coojs-ui-windows%2Csite%7Cjquery.client%2CmakeCollapsible%2Cspinner%2Ctablesorter%2CtextSelection%7Cjquery.spinner.styles%7Cjquery.uls.data%7Cmediawiki.ForeignApi%2CString%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cdiff%2Cexperiments%2CjqueryMsg%2Clanguage%2Crouter%2Cstorage%2Ctoc%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.ForeignApi.core%7Cmediawiki.diff.styles%7Cmediawiki.editfont.styles%7Cmediawiki.interface.helpers.styles%7Cmediawiki.language.months%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.media%2Cready%7Cmediawiki.page.watch.ajax%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cmw.cx.SiteMapper%7Coojs-ui-toolbars.icons%7Coojs-ui-widgets.icons%7Coojs-ui-windows.icons%7Coojs-ui.styles.icons-interactions%7Cskins.vector.icons.js%7Cskins.vector.js%7Cwikibase.client.vector-2022&skin=vector-2022&version=qpyhc:122:585
+
+1694426643216	Marionette	INFO	Stopped listening on port 53511
+Dynamically enable window occlusion 1
